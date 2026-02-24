@@ -10,7 +10,7 @@ const faqs = [
   {
     question: "Was kostet eine IT-Betreuung bei Keno IT?",
     answer:
-      "Unsere Managed-Service-Pakete beginnen ab 149 € pro Monat für kleine Teams. Da jedes Unternehmen unterschiedliche Anforderungen hat, erstellen wir Ihnen nach dem kostenlosen IT-Check ein maßgeschneidertes Festpreisangebot – ohne Kleingedrucktes.",
+      "Das hängt von Ihrem Unternehmen ab – Größe, Anzahl der Geräte und gewünschte Leistungen spielen eine Rolle. Nach dem kostenlosen IT-Check erhalten Sie ein konkretes Festpreisangebot, das genau zu Ihrem Bedarf passt – ohne Kleingedrucktes und ohne Überraschungen.",
   },
   {
     question: "Brauche ich einen langfristigen Vertrag?",
@@ -20,7 +20,7 @@ const faqs = [
   {
     question: "Wie schnell reagieren Sie bei einem IT-Notfall?",
     answer:
-      "Bei kritischen Ausfällen melden wir uns in der Regel innerhalb von 1–2 Stunden. Unser Ziel für alle Anfragen ist eine Reaktionszeit von unter 8 Stunden. Viele Probleme lösen wir remote, ohne dass Sie auf jemanden warten müssen.",
+      "Anfragen werden werktags ab 17 Uhr sowie am Wochenende bearbeitet – das kommunizieren wir transparent. Da wir unsere Kunden proaktiv betreuen und Systeme regelmäßig überwachen, entstehen kritische Ausfälle deutlich seltener. Viele Probleme lösen wir remote, ohne dass jemand vor Ort sein muss.",
   },
   {
     question: "Für welche Unternehmensgröße sind Sie geeignet?",
