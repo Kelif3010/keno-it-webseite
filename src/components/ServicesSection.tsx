@@ -1,4 +1,4 @@
-import { Headphones, Users, ShieldCheck, RefreshCw } from "lucide-react";
+import { Headphones, Users, ShieldCheck, RefreshCw, Globe, Bot } from "lucide-react";
 
 const services = [
   {
@@ -25,6 +25,18 @@ const services = [
     description:
       "Wir halten Ihre Systeme im Hintergrund aktuell: Sicherheitsupdates, regelmäßige Health-Checks und Patch-Management – bevor ein veraltetes System zum Problem wird.",
   },
+  {
+    icon: Globe,
+    title: "Website-Entwicklung & -Optimierung",
+    description:
+      "Ihre Website ist veraltet, lädt langsam oder macht auf dem Handy Probleme? Wir bauen moderne, schnelle Websites – oder verbessern das, was Sie bereits haben. Inkl. Kontaktformular, Impressum und DSGVO-konformer Umsetzung.",
+  },
+  {
+    icon: Bot,
+    title: "FAQ-Chatbot für Ihre Website",
+    description:
+      "Typischer Use Case: Ein Handwerksbetrieb bekommt täglich dieselben Anfragen per E-Mail – Öffnungszeiten, Preise, Kontakt. Ein einfacher Chatbot beantwortet diese Fragen automatisch rund um die Uhr und entlastet Sie spürbar. Auf Anfrage.",
+  },
 ];
 
 const ServicesSection = () => {
@@ -39,11 +51,11 @@ const ServicesSection = () => {
             Was wir konkret für Sie tun.
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            Kein Bauchladen. Wir fokussieren uns auf das, was kleine Unternehmen wirklich brauchen.
+            Alles aus einer Hand – von der stabilen IT-Infrastruktur bis zur modernen Website mit Chatbot.
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {services.map((service, index) => (
             <div
               key={service.title}
