@@ -4,7 +4,7 @@ import ScrollReveal from "@/components/ScrollReveal";
 
 const stats = [
   { numericTarget: 5, suffix: "+", label: "Jahre IT-Erfahrung" },
-  { numericTarget: 2, suffix: "", label: "Feste Ansprechpartner" },
+  { numericTarget: 1, suffix: "", label: "Fester Ansprechpartner" },
   { numericTarget: null, display: "< 8h", label: "Ø Reaktionszeit" },
 ];
 
@@ -17,7 +17,7 @@ const promises = [
   {
     icon: ShieldCheck,
     title: "Datenschutz & Compliance",
-    desc: "Sicherer Umgang mit sensiblen Daten – besonders für Kanzleien.",
+    desc: "Sicherer Umgang mit sensiblen Daten – DSGVO-konform und verlässlich.",
   },
   {
     icon: Zap,
@@ -38,8 +38,8 @@ const team = [
     initials: "E",
     photo: "",
     name: "Elif Mükan",
-    role: "Struktur & Projektleitung",
-    desc: "Verantwortlich für Organisation, Design und Kommunikation. Bringt Struktur in komplexe IT-Projekte.",
+    role: "Backoffice & Organisation",
+    desc: "Kümmert sich um Verwaltung und Organisation im Hintergrund – damit Ken sich voll auf Ihre IT konzentrieren kann.",
   },
 ];
 
@@ -103,12 +103,12 @@ const AboutSection = () => {
               Über uns
             </p>
             <h2 className="text-3xl sm:text-4xl font-extrabold text-foreground">
-              Zwei Experten. Ein Ziel.
+              Persönlich. Direkt. Verlässlich.
             </h2>
             <p className="mt-4 text-lg text-muted-foreground leading-relaxed">
-              Keno IT ist ein spezialisiertes Managed-Service-Team für KMU und Kanzleien. Kleine
-              Unternehmen verdienen dieselbe IT-Qualität wie Konzerne – nur persönlicher, schneller
-              und ohne anonyme Hotline.
+              Keno IT ist Ihr persönlicher IT-Dienstleister für kleine und mittelständische
+              Unternehmen. Kleine Unternehmen verdienen dieselbe IT-Qualität wie Konzerne –
+              nur persönlicher, schneller und ohne anonyme Hotline.
             </p>
           </div>
         </ScrollReveal>

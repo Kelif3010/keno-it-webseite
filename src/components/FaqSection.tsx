@@ -10,7 +10,7 @@ const faqs = [
   {
     question: "Was kostet eine IT-Betreuung bei Keno IT?",
     answer:
-      "Unsere Managed-Service-Pakete beginnen ab ca. 49 € pro Arbeitsplatz/Monat. Da jedes Unternehmen unterschiedliche Anforderungen hat, erstellen wir Ihnen nach dem kostenlosen IT-Check ein maßgeschneidertes Festpreisangebot – ohne Kleingedrucktes.",
+      "Unsere Managed-Service-Pakete beginnen ab 149 € pro Monat für kleine Teams. Da jedes Unternehmen unterschiedliche Anforderungen hat, erstellen wir Ihnen nach dem kostenlosen IT-Check ein maßgeschneidertes Festpreisangebot – ohne Kleingedrucktes.",
   },
   {
     question: "Brauche ich einen langfristigen Vertrag?",
@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "Für welche Unternehmensgröße sind Sie geeignet?",
     answer:
-      "Wir sind auf kleine und mittelständische Unternehmen mit 1 bis 50 Mitarbeitern spezialisiert. Besonders gut kennen wir die Anforderungen von Kanzleien, Arztpraxen und Handwerksbetrieben – aber wir betreuen auch andere Branchen.",
+      "Wir sind auf kleine und mittelständische Unternehmen mit 1 bis 50 Mitarbeitern spezialisiert – vom Handwerksbetrieb über Büros und Dienstleister bis hin zu Startups. Wenn Sie unsicher sind ob wir passen, fragen Sie einfach – das kostenlose Erstgespräch schafft Klarheit.",
   },
   {
     question: "Was passiert beim kostenlosen IT-Check?",
