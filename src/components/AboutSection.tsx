@@ -36,7 +36,7 @@ const team = [
   },
   {
     initials: "E",
-    photo: "",
+    photo: "/elif.jpg",
     name: "Elif Mükan",
     role: "Backoffice & Organisation",
     desc: "Kümmert sich um Verwaltung und Organisation im Hintergrund – damit Ken sich voll auf Ihre IT konzentrieren kann.",

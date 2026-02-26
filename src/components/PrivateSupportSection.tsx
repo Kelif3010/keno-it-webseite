@@ -29,7 +29,7 @@ const packages = [
 ];
 
 const PrivateSupportSection = () => {
-  const whatsappUrl = "https://wa.me/4915222001551?text=Hallo%2C%20ich%20interessiere%20mich%20f%C3%BCr%20den%20Privat-Support.";
+  const whatsappUrl = "https://wa.me/4915566312014?text=Hallo%2C%20ich%20interessiere%20mich%20f%C3%BCr%20den%20Privat-Support.";
 
   return (
     <div id="private">
@@ -121,7 +121,7 @@ const PrivateSupportSection = () => {
             </Button>
             <p className="mt-3 text-xs text-muted-foreground">
               Kein WhatsApp? Einfach anrufen:{" "}
-              <a href="tel:+4915222001551" className="underline hover:text-foreground transition-colors">
+              <a href="tel:+4915566312014" className="underline hover:text-foreground transition-colors">
                 +49 152 22001551
               </a>
             </p>
